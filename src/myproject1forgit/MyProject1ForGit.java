@@ -37,7 +37,7 @@ public class MyProject1ForGit {
             public void actionPerformed(ActionEvent e) {
             if(i==0)
             {
-                l.setText("Clicked");
+                l.setText("Clicked on button ");
                 i=1;
             }
             else
